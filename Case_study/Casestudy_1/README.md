@@ -115,3 +115,8 @@ H_03	|check if running or not| | |
 |L_01	|Requirements showld be appropriate| | | |
 |L_02	|Required software showld be uploaded.|  | |
 | L_03  |Should set a correct directory pat  |  | |
+
+
+# References 
+*  Embedded Fingerprint-Based security Management System using Microcontroller 
+*  
