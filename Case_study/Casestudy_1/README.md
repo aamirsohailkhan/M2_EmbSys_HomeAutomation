@@ -118,5 +118,7 @@ H_03	|check if running or not| | |
 
 
 # References 
-*  Embedded Fingerprint-Based security Management System using Microcontroller 
-*  
+*  M. Al-khassaweneh, B. Smeirat and T. B. Ali, "A hybrid system of Iris and Fingerprint recognition for security applications," 2012 IEEE Conference on Open Systems, 2012, pp. 1-4, doi: 10.1109/ICOS.2012.6417639. 
+* S. Hemalatha, "A systematic review on Fingerprint based Biometric Authentication System," 2020 International Conference on Emerging Trends in Information Technology and Engineering (ic-ETITE), 2020, pp. 1-4, doi: 10.1109/ic-ETITE47903.2020.342.
+* F. Wang and Y. Zhang, "Study and Design of Intelligent Authentication System Based on Fingerprint Identification," 2009 Second International Symposium on Knowledge Acquisition and Modeling, 2009, pp. 170-173, doi: 10.1109/KAM.2009.247.
+* M. Faundez-Zanuy, "A door-opening system using a low-cost fingerprint scanner and a PC," in IEEE Aerospace and Electronic Systems Magazine, vol. 19, no. 8, pp. 23-26, Aug. 2004, doi: 10.1109/MAES.2004.1346894.
