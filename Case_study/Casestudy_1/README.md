@@ -43,3 +43,28 @@
 ## How
 
 * Fingerprint scanners work by capturing the pattern of ridges and valleys on a finger. As a finger rests on the touch-capacitive surface, the device measures the charge; ridges exhibit a change in capacitance, while valleys produce practically no change at all. The sensor uses all this data to accurately map out prints.
+
+
+# Requirements
+
+## Highlevel Requirements
+
+
+| High Level Requirements|Description|
+|-------------------------|----------|
+|HLR1|	Finger Print Sensor|
+|HLR2|	Switches|
+|HLR3|	Motor|
+|HLR4|	Microcontroller|
+|HLR5|	Software used|
+|HLR6|	Display|
+
+## LOWLEVEL REQUIREMENTS
+
+|Low Level Requirements	| Description |
+|-----------------------|-------------|
+| HLR1_LLR1 | Finger Print module|
+|HLR2_LLR1|	Push Button |
+|HLR4_LLR1|	ATMEGA 328|
+|HLR5_LLR1|	Code Blocks with AVR GCC compiler|
+|HLR6_LLR1|	SimulIDE LCD and LED|
