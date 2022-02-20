@@ -33,7 +33,7 @@
 * Maintenance and repair issues.
 
 
-# COST, FEATURE & TIMERemote AccessLINE
+# COST & FEATURES
 
 ## Cost
 
