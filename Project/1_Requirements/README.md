@@ -131,4 +131,4 @@ Light dependent resistors, LDRs, or photoresistors are electronic components tha
 * Compiler AVR GCC 
 * Win AVR loader 
 * Programming through embedded C 
-* Smiul simulation software.
+* Smiul ID simulation software.
