@@ -1,7 +1,8 @@
 
 # HOME AUTOMATION
 
-![business-people-controlling-smart-house-devices-with-tablet-laptop-smart-home-devices-home-automation-system-domotics-market-concept-pinkish-coral-bluevector-isolated-illustration_335657-1949](https://user-images.githubusercontent.com/46382398/154842518-5b59f458-1a43-466a-987f-2fd43745a65d.jpg)
+![Skills-in-Routinen-702x220](https://user-images.githubusercontent.com/46382398/155834764-36711898-4afc-497e-b152-c58fcb5006a0.jpg)
+
 
 
 # Introduction
@@ -66,6 +67,8 @@
 |HLR03|	System should recognize oned device/applainces|
 |HLR04|	OTP generated verification for user|
 |HLR05|	System should recognize invalid user|
+|HLR06| System should controll over voice|
+|HLR07| System should connect with Amazon alexa|
 
 ## Low Level Requirement
 
@@ -75,6 +78,7 @@
 |LLR02	|full list of applainces|
 |LLR03	|status of applainces|
 |LLR04	|Present device/applainces must be tracked|
+|LLR05| system should recognise the voice commands|
 
 
 # Softwere requirements
