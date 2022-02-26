@@ -81,7 +81,7 @@
 |LLR05| system should recognise the voice commands|
 
 # Hardware Requirements
-
+#### Amazon alexa echo dot
 #### ATMEL ATMEGA 16 (an AVR based microcontroller)  
 8-bit microcontroller – ATmega16 is a high-performance microcontroller and it can process 8-bit data at a time. It takes 8 bit of data from memory. And utilize low power consumption. Its architecture based on enhanced RISC architecture.
 
