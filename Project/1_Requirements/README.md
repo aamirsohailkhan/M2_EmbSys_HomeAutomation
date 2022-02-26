@@ -1,5 +1,5 @@
 
-# HOME AUTOMATION
+# ALEXA CONTROLLED HOME AUTOMATION
 
 ![Skills-in-Routinen-702x220](https://user-images.githubusercontent.com/46382398/155834764-36711898-4afc-497e-b152-c58fcb5006a0.jpg)
 
