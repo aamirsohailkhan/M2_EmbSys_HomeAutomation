@@ -61,20 +61,20 @@
 
 |ID|	Description|
 |----|---|
-|HR01|	System should be able to access the applainces when person in the home|
-|HR02	|User should be able to access the applainces|
-|HR03|	System should recognize oned device/applainces|
-|HR04|	OTP generated verification for user|
-|HR05|	System should recognize invalid user|
+|HLR01|	System should be able to access the applainces when person in the home|
+|HLR02	|User should be able to access the applainces|
+|HLR03|	System should recognize oned device/applainces|
+|HLR04|	OTP generated verification for user|
+|HLR05|	System should recognize invalid user|
 
 ## Low Level Requirement
 
 | ID	| Description |
 |-----|------|
-|LR01	| Only if the person inside the home then only device must be on| 
-|LR02	|full list of applainces|
-|LR03	|status of applainces|
-|LR04	|Present device/applainces must be tracked|
+|LLR01	| Only if the person inside the home then only device must be on| 
+|LLR02	|full list of applainces|
+|LLR03	|status of applainces|
+|LLR04	|Present device/applainces must be tracked|
 
 
 # Softwere requirements
