@@ -1,5 +1,7 @@
 # Alexa Controlled HomeAutomation system
-![iota-smart_home_mobile](https://user-images.githubusercontent.com/46382398/154844844-467a06c4-45e9-45c0-ac08-89c701993bc7.jpg)
+
+
+![08-094648-ways_alexa_can_help_you_save_money](https://user-images.githubusercontent.com/46382398/155834279-0c5c0c49-7e3c-45d6-8a69-df00832e40f4.jpg)
 
 
 ## Making Home smart !!!!
