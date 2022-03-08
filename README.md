@@ -8,8 +8,3 @@
 # Turn on Lights !!
 
 
-# Badges
-
-| Codiga Code Quality | Codiga Code Score | 
-|----------------------|-------------------|
-| ![svg](https://user-images.githubusercontent.com/46382398/157207447-4caec2f6-87c4-4722-bbe5-ffaaa3ddb77b.svg) | ![svg](https://user-images.githubusercontent.com/46382398/157207518-b6a08ddf-f671-4745-8f6f-06b3c969aee2.svg) |
