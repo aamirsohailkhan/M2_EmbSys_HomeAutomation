@@ -14,3 +14,17 @@ This project aims to create a wireless system for managing typical household ele
 | Codiga Code Quality | Codiga Code Score | Codecy|
 |----------------------|-------------------|-------|
 | ![svg](https://user-images.githubusercontent.com/46382398/157207447-4caec2f6-87c4-4722-bbe5-ffaaa3ddb77b.svg) | ![svg](https://user-images.githubusercontent.com/46382398/157207518-b6a08ddf-f671-4745-8f6f-06b3c969aee2.svg) | ![e37483f345574a9596c5121c1f2902e1](https://user-images.githubusercontent.com/46382398/157209006-bde6bf10-d8ce-4a09-86a8-a15dd0a5098d.svg) |
+
+
+##  Folder Structure
+
+| Folder   | Discription |
+| ------------- | ------------- |
+| CaseStudy | Case studies  |
+| 1_Requirements  | Documents detailing requirements and research  |
+| 2_Design | Documents specifying design details |
+| 3_Implementation | All code files |
+| 4_Testplan and output | Documents with test plans and procedures |
+| 5_Report | All README.md files and Reoprt copy |
+| 6_Images | Screenshots of Implementation and Output |
+|7_Reference| Reference of Research|
