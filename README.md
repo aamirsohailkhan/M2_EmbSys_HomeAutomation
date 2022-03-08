@@ -6,3 +6,10 @@
 # Alexa ..!!
 
 # Turn on Lights !!
+
+
+# Badges
+
+| Codiga Code Quality | Codiga Code Score | 
+|----------------------|-------------------|
+| https://api.codiga.io/project/31677/score/svg  |  https://api.codiga.io/project/31677/status/svg  |
